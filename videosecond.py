@@ -2,13 +2,13 @@ import streamlit as st
 st.subheader("展示视频")
 st.set_page_config(page_title='视频网站',page_icon='📺')
 video_ur1=[{
-    'ur1':'https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/02/17/28943451702/28943451702-1-192.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&mid=0&oi=771356656&uipk=5&gen=playurlv3&os=cosovbv&platform=html5&trid=fe9416912da2498c9eb17212bf7b901h&deadline=1761302137&nbs=1&og=hw&upsig=6d3c0fd97f731e522bf39df86e7b3c03&uparams=e,mid,oi,uipk,gen,os,platform,trid,deadline,nbs,og&bvc=vod&nettype=0&bw=773496&dl=0&f=h_0_0&agrr=1&buvid=&build=0&orderid=0,1',
-    'title':'奶龙搞怪大作战',
+    'ur1':'https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/15/80/33356448015/33356448015-1-192.mp4?e=ig8euxZM2rNcNbRMhWdVhwdlhWK1hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&platform=html5&trid=64660f58a29d4ca3be70c9a0a214d1fh&mid=0&gen=playurlv3&os=cosovbv&og=cos&uipk=5&deadline=1761901018&nbs=1&oi=771356656&upsig=d2fb4ce4e14b9c737832571ea528eb1b&uparams=e,platform,trid,mid,gen,os,og,uipk,deadline,nbs,oi&bvc=vod&nettype=0&bw=1129506&dl=0&f=h_0_0&agrr=1&buvid=&build=0&orderid=0,1',
+    'title':'西湖奶龙',
     'episode':'1'
 },
     {
-    'ur1':'https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/83/71/27329957183/27329957183-1-192.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&nbs=1&oi=771356656&uipk=5&trid=d215eaa7a68e4045ae28352fe8cd86bh&platform=html5&mid=0&gen=playurlv3&og=hw&deadline=1761302287&os=cosovbv&upsig=20a5812c0cce598e3c14b0394885bcb0&uparams=e,nbs,oi,uipk,trid,platform,mid,gen,og,deadline,os&bvc=vod&nettype=0&bw=799933&build=0&dl=0&f=h_0_0&agrr=1&buvid=&orderid=0,1',
-    'title':'奶龙爆笑嘉年华',
+    'ur1':'https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/89/39/28525333989/28525333989-1-192.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&trid=997a8d3d5fac41fc8fd519c1a8a5d28h&os=cosovbv&uipk=5&gen=playurlv3&og=cos&mid=0&deadline=1761901495&platform=html5&nbs=1&oi=771356656&upsig=d7e840a284653135a2f2fb98f2ece78c&uparams=e,trid,os,uipk,gen,og,mid,deadline,platform,nbs,oi&bvc=vod&nettype=0&bw=627118&agrr=1&buvid=&build=0&dl=0&f=h_0_0&orderid=0,1',
+    'title':'奶龙',
     'episode':'2'
     },
         {
